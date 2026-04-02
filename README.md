@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">👻  Unintentional bug whisperer since my college debut.<br><br>🌱  I'm currently learning Node.js<br><br>🪴 Ask me about React<br><br>🤝 Reach me through <a href="https://www.linkedin.com/in/jyoti-deveda/"> LinkedIn
+<p align="center">👻  Unintentional bug whisperer since my college debut.<br><br>🪴 Ask me about Nodejs<br><br>🤝 Reach me through <a href="https://www.linkedin.com/in/jyoti-deveda/"> LinkedIn
 <!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /> -->
 </a>
   <br><br>🎲 Fun fact: I love drawing</p>
