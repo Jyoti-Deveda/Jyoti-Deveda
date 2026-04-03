@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm Jyoti Deveda <br><br>A learner and Frontend Developer from Mandsaur, Madhya Pradesh</h3>
+<h3 align="center">I'm Jyoti Deveda <br><br>Backend Developer and an Aspiring Learner</h3>
 
 ###
 
